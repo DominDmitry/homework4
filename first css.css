@@ -1,0 +1,28 @@
+*{ padding: 0; margin: 0;color: yellow}
+
+p{
+    color: blue;
+}
+.first_class{
+    color: red;
+}
+.first_class.second_class{
+    color: black;
+}
+#first_id{
+    color: brown;
+}
+ul>li{
+    color: blueviolet;
+}
+ul .aaa{
+    color: black;
+}
+[href="google.com"]{
+    color: chartreuse;
+}
+[href="google.com"]{
+    color: rgb(8, 5, 12);
+}
+a:hover, a:active
+{ color: red }
